@@ -5,10 +5,6 @@
   "Don't believe in a god, believe in yourself."
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=LostWithoutLuck&color=grey">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/840539823655747594.png" />
-</p>
 <p align="center">
   Pew
         Pew
