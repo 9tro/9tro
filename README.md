@@ -4,11 +4,11 @@
 <p align="center">
  "<b><i>Everyone wants happiness, nobody wants pain, but you can't have a rainbow, without a little rain.<i/><b/>"
 <p align="center">
- <p align="center">
-   My cord
- <p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/828115477300510722.png">
-<p align="center">
+<p>
+  <p align="center">
+  <kbd>lost.#0909</kbd> <-- New Cord
+  </p>
+  <p align="center">
   Pew
         Pew
   Pew
