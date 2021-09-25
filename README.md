@@ -30,7 +30,7 @@ Languages  :  Python, HTML, and JS
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ecriminal&style=flat-square)
+![](https://komarev.com/ghpvc/?username=9tro&style=flat-square)
 <p style="font-size: 14px">README inspired by: 
 <a href="https://github.com/5R33CH4/5R33CH4/blob/main/README.md">
     <p>sreecha</p></a>
