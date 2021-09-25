@@ -1,4 +1,4 @@
-```zsh
+```fish
 ╭─darth@vader in ~ took 3ms
 ╰─λ neofetch
 ```
@@ -10,8 +10,8 @@
 ----------------
 
        OS  :  Ubuntu 20.04.3 LTS x86_64
-       WM  :  yabai
-    Shell  :  zsh 5.8
+       WM  :  Mutter
+    Shell  :  fish 3.1.0
  Terminal  :  fish 3.1.0
       CPU  :  Intel i5-8300H (8) @ 4.000GHz
     Alias  :  9tro/shimmy
