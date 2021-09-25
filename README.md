@@ -3,7 +3,7 @@
 ╰─λ neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<img align="left" src="assets/skull.png" alt="logo.png" width="200" /> 
 
 ```lost
 9tro@github
