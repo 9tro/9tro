@@ -16,7 +16,7 @@
       CPU  :  Intel i5-8300H (8) @ 4.000GHz
     Alias  :  9tro/shimmy
 Languages  :  Python, HTML, and JS
-  Discord  :  lost.#0909
+  Discord  :  n/a
 ```
 
 <p align="left">
