@@ -9,13 +9,10 @@
 9tro@github
 ----------------
 
-       OS  :  Ubuntu 20.04.3 LTS x86_64
-       WM  :  Mutter
-    Shell  :  fish 3.1.0
- Terminal  :  gnome-terminal
+       OS  :  Windows 11
       CPU  :  Intel i5-8300H (8) @ 4.000GHz
-    Alias  :  9tro/shimmy
-Languages  :  Python, HTML, and JS
+    Alias  :  nitro/lost
+Languages  :  Python, HTML, C+, and JS
   Discord  :  n/a
 ```
 
