@@ -1,7 +1,7 @@
 <p align="center"> 
   <br />
   <br />
-  <img src="https://pa1.narvii.com/5748/f1bfa63f1ad12267c8d09c14a0ec5b237871a513_hq.gif" width="50%">
+  <img src="https://pa1.narvii.com/5748/f1bfa63f1ad12267c8d09c14a0ec5b237871a513_hq.gif" width="100%">
   
   <br />
   
